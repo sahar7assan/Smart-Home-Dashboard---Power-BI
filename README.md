@@ -82,4 +82,8 @@ Understand occupancy and motion patterns
 ---
 ![Dashboard Preview](dashboard.png)
 
+---
+## Live Dashboard
+
+🔗 [View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGE5NmJlZWMtMjlkYS00ZjcwLWEyZWItN2M2NmJhMWY4Nzg3IiwidCI6ImMwMjMwYzg0LWRiNzctNGVhYS04OTYyLTJlNzY2MmFhOWQ3NyIsImMiOjl9)
 
