@@ -80,6 +80,6 @@ Track device activity and operational status
 Understand occupancy and motion patterns
 
 ---
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](smart home dashboard.png)
 
 
